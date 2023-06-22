@@ -1,12 +1,12 @@
 {
-    "UseNewInteractions": true,
-    "AI": {
-        "Agression": 0.7
-    },
-    "Weapon": {
-        "Core80": {
+	"UseNewInteractions": true,
+	"AI": {
+		"Agression": 0.7
+	},
+	"Weapon": {
+		"Core80": {
 			"Mesh": "/Game/Blueprint/Prototype/Resources/SM_Cone",
-            "ClipSize": 30
-        }
-    }
+			"ClipSize": 30
+		}
+	}
 }
