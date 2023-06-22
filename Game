@@ -1,0 +1,11 @@
+{
+		"UseNewInteractions": true,
+		"AI": {
+			"Agression": 0.7
+		},
+		"Weapon": {
+			"Core80": {
+				"ClipSize": 30
+			}
+		}
+}
